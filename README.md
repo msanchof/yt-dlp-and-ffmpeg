@@ -5,7 +5,7 @@ Para poder usar el código hay que seguir una série de pasos:
 ```
 git clone https://github.com/msanchof/yt-dlp-and-ffmpeg.git
 ```
-3. Ubicarte en el repositorio clonado.
+2. Ubicarte en el repositorio clonado.
 ```
 cd yt-dlp-and-ffmpeg
 ```
@@ -15,5 +15,5 @@ chmod +x script.sh
 ```
 4. Finalmente ejcutar el script.
 ```
-sudo ./script
+sudo ./script.sh
 ```
